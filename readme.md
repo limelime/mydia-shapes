@@ -8,3 +8,4 @@
 * https://github.com/sdteffen/dia-additional-shapes
 * Dia Shape Search: Find symbols to use in Dia: http://dia-installer.de/shapes/search.html.en
 * Additional shapes: http://dia-installer.de/diashapes/
+* Plugins: https://github.com/sdteffen/dia-plugins
