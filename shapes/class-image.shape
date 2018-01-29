@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shapes - class-image</name>
+  <icon>class-image.png</icon>
+  <connections>
+    <point x="10" y="9.7"/>
+    <point x="12.8525" y="11.1"/>
+    <point x="10" y="11.1"/>
+    <point x="10" y="10.4"/>
+    <point x="12.8525" y="9.7"/>
+    <point x="12.8525" y="10.4"/>
+    <point x="11.4262" y="11.1"/>
+    <point x="11.4262" y="9.7"/>
+    <point x="10" y="11.1"/>
+    <point x="12.8525" y="11.5"/>
+    <point x="10" y="11.5"/>
+    <point x="10" y="11.3"/>
+    <point x="12.8525" y="11.1"/>
+    <point x="12.8525" y="11.3"/>
+    <point x="11.4262" y="11.5"/>
+    <point x="11.4262" y="11.1"/>
+    <point x="10" y="11.5"/>
+    <point x="12.8525" y="11.9"/>
+    <point x="10" y="11.9"/>
+    <point x="10" y="11.7"/>
+    <point x="12.8525" y="11.5"/>
+    <point x="12.8525" y="11.7"/>
+    <point x="11.4262" y="11.9"/>
+    <point x="11.4262" y="11.5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="10" y="9.7" width="2.8525" height="1.4"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="10" y="9.7" width="2.8525" height="1.4"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: sans; font-style: normal; font-weight: 700" x="11.4262" y="10.65" font-size="1" textLength="2.3525">Class</svg:text>
+    <svg:rect style="fill: #ffffff" x="10" y="11.1" width="2.8525" height="0.4"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="10" y="11.1" width="2.8525" height="0.4"/>
+    <svg:rect style="fill: #ffffff" x="10" y="11.5" width="2.8525" height="0.4"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="10" y="11.5" width="2.8525" height="0.4"/>
+    <svg:image x="10.05" y="12.05" width="2.7" height="2.7" xlink:href="&lt;broken&gt;"/>
+  </svg:svg>
+</shape>
